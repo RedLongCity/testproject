@@ -11,6 +11,6 @@ package com.mycompany.mavenproject1.newpackage;
  */
 public class NewClass {
     
-    private String codemaster8;
+    private String codemaster10;
     
 }
